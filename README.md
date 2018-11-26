@@ -10,7 +10,7 @@ Develop a Spotify SPA with the [Spotify API](https://developer.spotify.com/docum
 
 ## Instructions
 
-- Use your favorite UX framework
+- Use your favorite UX framework (Bootstrap, Element.io, Material Design...)
 - Use `Response Status Code` to show users feedback, like dialog and modals
 - Use Node > 10
 
